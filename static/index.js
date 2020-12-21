@@ -1,4 +1,4 @@
-import { ready } from 'https://lsong.org/scripts/dom.js';
+import { ready, createLink } from 'https://lsong.org/scripts/dom.js';
 import { requestForm } from 'https://lsong.org/scripts/form.js';
 
 ready(() => {
